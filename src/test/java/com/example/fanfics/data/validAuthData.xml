@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<user-list>
+    <account-data>
+        <login>olga11111111</login>
+        <password>qwerty007</password>
+    </account-data>
+    <account-data>
+        <login>super user</login>
+        <password>123456</password>
+    </account-data>
+</user-list>
